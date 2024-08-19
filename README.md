@@ -1,5 +1,5 @@
 # Portfolio
-- [About me](#About-me)
+- [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
   * [Manual Testing](#manual-testing)
@@ -12,12 +12,11 @@
   * [SQL Database](#sql-database)
   * [Javascript](#javascript)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases-example)
 ---
-# About me
-life as a software tester
+# About me 
+:girl: life as a software tester
 
 👋 Welcome to my GitHub profile! I'm Fairlee D. Nepunan, a passionate Software Tester specializing in Software Quality Assurance, with a knack for crafting robust test strategies and ensuring the reliability of software applications. With a background in front-end development and a keen eye for UI/UX design, I bring a unique blend of skills to every project I undertake.
 
@@ -26,35 +25,36 @@ Throughout my career, I've had the privilege of working on a diverse range of pr
 Feel free to explore my repositories to see some of the projects I've been involved in. Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's connect and create something amazing together! 🚀
 
 ---
-## CV
+# CV
 Download my CV in a [PDF format from Google Drive](#)
 
-## Skills
-  ## Manual Testing
+# Skills
+  ### Manual Testing
    - Execute test cases test plans and create structured reports.
-  ## Automated Testing
+  ### Automated Testing
    - created test scripts using Selenium or Playwright
-  ## API Testing
+  ### API Testing
    - Check the validity of data using Postman
-  ## End-to-end Testing
+  ### End-to-end Testing
    - Testing across the entire application workflow to ensure functionality.
-  ## Regression Testing
+  ### Regression Testing
    - Identifying and testing previously developed and tested software to ensure new changes haven’t introduced bugs.
-  ## Smoke Testing
+  ### Smoke Testing
    - Performing preliminary tests to catch major issues before more in-depth testing.
-  ## Compatibility Testing
+  ### Compatibility Testing
    - Testing applications across different browsers, and devices to ensure consistency.
-  ## Git
+  ### Git
    -  Git for version control, branching, and collaborating on code with development teams.
-  ## SQL Database
+  ### SQL Database
   - Skills in writing and executing SQL queries to validate data in databases during testing.
-  ## Javascript
+  ### Javascript
   -  Knowledge of programming languages used for writing automation scripts.
 
 Work samples can be found in [Examples of my work](#examples-of-my-work)
 
-## Tools
-_this_are_the_tools_that_I_have_used_in_my_works_
+---
+# Tools
+_this are the tools that I have used in my works_
 
 | Tools | Description | 
 | ------------- | ------------- |
@@ -72,7 +72,7 @@ _this_are_the_tools_that_I_have_used_in_my_works_
 
 
 ---
-### Experience:
+# Experience:
 #### Software Tester (Manual Tester)
 - **DreamTech International Corp., Makati Philippines**
   - *Aug 2023 - Present*
@@ -111,7 +111,7 @@ _this_are_the_tools_that_I_have_used_in_my_works_
     - Managed inventory, budgets, and financial reporting.
 
 ---
-### Examples of my work
+# Examples of my work
   ## Test Case Example
   - [Luma e-commerce website](https://magento.softwaretestingboard.com/) a demo website was used to create sample test cases.
     * Test Case Example for Check-out feature following a Happy Path. Check [Google File](https://docs.google.com/spreadsheets/d/12qVf1I0GItSmPoJzad2ZJz18YWmFiCvmqV2o8R8eGyo/edit?usp=sharing)
