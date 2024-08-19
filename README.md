@@ -8,6 +8,9 @@
   * [Regression Testing](#regression-testing)
   * [Smoke Testing](#smoke-testing)
   * [Compatibility Testing](#compatibility-testing)
+  * [Git](#git)
+  * [SQL Database](#sql-database)
+  * [Javascript](#javascript)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
@@ -22,6 +25,7 @@ Throughout my career, I've had the privilege of working on a diverse range of pr
 
 Feel free to explore my repositories to see some of the projects I've been involved in. Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's connect and create something amazing together! 🚀
 
+---
 ## CV
 Download my CV in a [PDF format from Google Drive](#)
 
@@ -40,7 +44,34 @@ Download my CV in a [PDF format from Google Drive](#)
    - Performing preliminary tests to catch major issues before more in-depth testing.
   ## Compatibility Testing
    - Testing applications across different browsers, and devices to ensure consistency.
+  ## Git
+   -  Git for version control, branching, and collaborating on code with development teams.
+  ## SQL Database
+  - Skills in writing and executing SQL queries to validate data in databases during testing.
+  ## Javascript
+  -  Knowledge of programming languages used for writing automation scripts.
 
+Work samples can be found in [Examples of my work](#examples-of-my-work)
+
+## Tools
+_this_are_the_tools_that_I_have_used_in_my_works_
+
+| Tools | Description | 
+| ------------- | ------------- |
+| Git  |  A distributed version control system that tracks changes in source code during software development.  |
+| Postmant  | It allows users to create, send, and monitor HTTP requests, automate testing, and validate API responses, ensuring that APIs function as expected.  |
+| Visual Studio Code (VS Code)  |  A lightweight, open-source code editor developed by Microsoft, favored for its flexibility and extensive plugin ecosystem.  |
+| BrowserStack  | A cloud-based testing platform that provides instant access to a wide range of real devices and browsers.   |
+| Playwright  | An open-source, end-to-end testing framework for web applications, created by Microsoft.   |
+| Selenium  | A widely-used open-source framework for automating web browsers. Selenium supports various programming languages and provides tools to write functional tests for web applications, ensuring that they perform consistently across different browsers.  |
+| Management Tools (Asana, Trello, Jira)  | project management tool that helps teams organize, track, and manage their work. It’s ideal for planning, executing, and tracking project tasks.  |
+| Microsoft Excel & Microsoft Word  | Used for data analysis, reporting, and visualization  |
+| Appium  | An open-source tool for automating native, mobile web, and hybrid applications on iOS and Android platforms. Appium supports various programming languages and allows for the reuse of test scripts between iOS and Android apps.  |
+| Figma  | A collaborative interface design tool that enables teams to create, prototype, and share designs in real-time.   |
+| Lucidchart | An intuitive diagramming application that makes it easy to create flowcharts, wireframes, UML diagrams, and other visual representations of complex systems.  |
+
+
+---
 ### Experience:
 #### Software Tester (Manual Tester)
 - **DreamTech International Corp., Makati Philippines**
