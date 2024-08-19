@@ -3,11 +3,16 @@
 - [CV](#cv)
 - [Skills](#skills)
   * [Manual Testing](#manual-testing)
+  * [Automated Testing](#automated-testing)
+  * [End-to-end Testing](#end-to-end-testing)
+  * [Regression Testing](#regression-testing)
+  * [Smoke Testing](#smoke-testing)
+  * [Compatibility Testing](#compatibility-testing)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases-example)
-
+---
 # About me
 life as a software tester
 
@@ -17,20 +22,24 @@ Throughout my career, I've had the privilege of working on a diverse range of pr
 
 Feel free to explore my repositories to see some of the projects I've been involved in. Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's connect and create something amazing together! 🚀
 
----
 ## CV
 Download my CV in a [PDF format from Google Drive](#)
 
 ## Skills
   ## Manual Testing
-    - Execute test cases test plans and create structured reports.
+   - Execute test cases test plans and create structured reports.
   ## Automated Testing
-    - created test scripts using Selenium or Playwright
+   - created test scripts using Selenium or Playwright
   ## API Testing
-    - Check the validity of data using Postman
+   - Check the validity of data using Postman
   ## End-to-end Testing
-    - Testing across the entire application workflow to ensure functionality.
-  ## 
+   - Testing across the entire application workflow to ensure functionality.
+  ## Regression Testing
+   - Identifying and testing previously developed and tested software to ensure new changes haven’t introduced bugs.
+  ## Smoke Testing
+   - Performing preliminary tests to catch major issues before more in-depth testing.
+  ## Compatibility Testing
+   - Testing applications across different browsers, and devices to ensure consistency.
 
 ### Experience:
 #### Software Tester (Manual Tester)
