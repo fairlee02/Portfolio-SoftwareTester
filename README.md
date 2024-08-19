@@ -54,7 +54,7 @@ Work samples can be found in [Examples of my work](#examples-of-my-work)
 
 ---
 # Tools
-_this are the tools that I have used in my works_
+_these are the tools that I have used in my works_
 
 | Tools | Description | 
 | ------------- | ------------- |
@@ -73,42 +73,56 @@ _this are the tools that I have used in my works_
 
 ---
 # Experience:
-#### Software Tester (Manual Tester)
-- **DreamTech International Corp., Makati Philippines**
-  - *Aug 2023 - Present*
-  - Responsibilities:
-    - Created automation testing using Playwright.
-    - Worked with Asana for test case management.
-    - Supervised and co-created testing documentation.
-    - Conducted end-to-end testing to ensure software quality.
-    - Collaborated with stakeholders for project requirements gathering.
-    - Conducted regression testing, smoke testing, and compatibility testing.
+#### Software Tester (Manual Tester) - Remote
+**DreamTech International Corp., Makati Philippines**
+*Aug 2023 - Present*
+ 
+ - Created automated testing scripts using Playwright.
+ - Used Asana for reporting, tracking and management
+- Supervised and co-created testing documentation and test plans
+- Worked with Postman for testing API calls.
+- Conducted end-to-end testing in web application to ensure the quality and reliability 
+of the software
+- Created reports and presented findings in User Acceptance Testing (UAT) meetings
+- Collaborated with stakeholders to gather project requirements and perform data 
+gathering 
+- Assisted in creating mockups for project presentations and user interface design
+- Conducted regression testing, smoke testing and compatibility testing.
 
-#### Front-end Developer
-- **Telcom Live Inc., Mandaluyong Philippines**
-  - *March 2022 - April 2023*
-  - Responsibilities:
-    - Developed responsive web applications using Vue.js.
-    - Maintained and debugged existing websites.
-    - Created prototypes and mockups using Adobe XD and Figma.
-    - Utilized Jira for project management.
 
-#### Software Tester
-- **Telcom Live Inc., Mandaluyong Philippines**
-  - *December 2021 – March 2022*
-  - Responsibilities:
-    - Created structured documentation and manuals.
-    - Executed automated testing using Selenium.
-    - Created reports and presented findings in UAT meetings.
+#### Front-end Developer - Remote
+ **Telcom Live Inc., Mandaluyong Philippines**
+ *March 2022 - April 2023*
+
+ - Created multiple responsive web application using JavaScript framework, Vue.js. 
+ensuring responsive and visually appealing user interfaces.
+- Maintained and debugged existing websites to optimize performance and user 
+experience.
+- Developed prototypes and mockups for web applications using Adobe XD and 
+Figma 
+- Utilized Jira for project management, ensuring efficient communication and task 
+tracking within the development team.
+
+#### Software Tester - Remote
+ **Telcom Live Inc., Mandaluyong Philippines**
+   *December 2021 – March 2022*
+   
+  - Created structured documentation and manuals of all end-user requirements
+- Performed regression testing application programs
+- Executed automated testing using selenium
+- Trained to use Selenium IDE and Webdriver automation tool.
+- Used Jira for reporting, tracking and management
+- Used Asana for reporting, tracking and management
+- Worked in an Agile software development environment
 
 #### Food and Beverage Department Outlet Manager
-- **Zenith Sukhumvit Hotel, Bangkok Thailand**
-  - *August 2017 – March 2021*
-  - Responsibilities:
-    - Managed daily operations of a busy hotel restaurant.
-    - Implemented strategies to enhance customer satisfaction.
-    - Coordinated with other departments for smooth hotel operations.
-    - Managed inventory, budgets, and financial reporting.
+ **Zenith Sukhumvit Hotel, Bangkok Thailand**
+   *August 2017 – March 2021*
+
+   - Managed daily operations of a busy hotel restaurant.
+   - Implemented strategies to enhance customer satisfaction.
+   - Coordinated with other departments for smooth hotel operations.
+   - Managed inventory, budgets, and financial reporting.
 
 ---
 # Examples of my work
@@ -119,7 +133,7 @@ _this are the tools that I have used in my works_
   ## Bug Report Example
     
 
-### Certification:
+## Certification:
 - **Zuitt Coding Bootcamp**
   - *Quezon City, Philippines*
   - *July 2021 to October 2021*
@@ -127,7 +141,7 @@ _this are the tools that I have used in my works_
   - Back-End Web Development
 ---
 
-### Education:
+## Education:
 - **University of St La Salle**
   - *Bacolod City, Philippines*
   - *2013-2019*
