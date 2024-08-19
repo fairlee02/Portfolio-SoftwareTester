@@ -1,4 +1,14 @@
-# SoftwareTester.profile
+# Portfolio
+- [About me](#About-me)
+- [CV](#cv)
+- [Skills](#skills)
+  * [Manual Testing](#manual-testing)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases](#test-cases-example)
+
+# About me
 life as a software tester
 
 👋 Welcome to my GitHub profile! I'm Fairlee D. Nepunan, a passionate Software Tester specializing in Software Quality Assurance, with a knack for crafting robust test strategies and ensuring the reliability of software applications. With a background in front-end development and a keen eye for UI/UX design, I bring a unique blend of skills to every project I undertake.
@@ -8,7 +18,19 @@ Throughout my career, I've had the privilege of working on a diverse range of pr
 Feel free to explore my repositories to see some of the projects I've been involved in. Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Let's connect and create something amazing together! 🚀
 
 ---
+## CV
+Download my CV in a [PDF format from Google Drive](#)
 
+## Skills
+  ## Manual Testing
+    - Execute test cases test plans and create structured reports.
+  ## Automated Testing
+    - created test scripts using Selenium or Playwright
+  ## API Testing
+    - Check the validity of data using Postman
+  ## End-to-end Testing
+    - Testing across the entire application workflow to ensure functionality.
+  ## 
 
 ### Experience:
 #### Software Tester (Manual Tester)
@@ -49,28 +71,13 @@ Feel free to explore my repositories to see some of the projects I've been invol
     - Managed inventory, budgets, and financial reporting.
 
 ---
-### Skills:
-- Vue JS
-- MySQL
-- JavaScript
-- UX/UI Design
-- Web Development
-- Web Testing
-- Photoshop
-- Adobe Illustrator
-- Selenium
-- Microsoft Office
-- Playwright
-- Postman
- ---
-
-### Proficiencies:
-- Proficient in manual testing methodologies, test case creation, bug reporting, and end-to-end testing.
-- Experienced in front-end development using Vue.js, React, HTML, CSS, and JavaScript.
-- Familiar with project management tools such as Asana and Jira.
-- Basic knowledge of Selenium and Playwright for automated testing.
-- Strong communication and team collaboration skills.
----
+### Examples of my work
+  ## Test Case Example
+  - [Luma e-commerce website](https://magento.softwaretestingboard.com/) a demo website was used to create sample test cases.
+    * Test Case Example for Check-out feature following a Happy Path. Check [Google File](https://docs.google.com/spreadsheets/d/12qVf1I0GItSmPoJzad2ZJz18YWmFiCvmqV2o8R8eGyo/edit?usp=sharing)
+    * Test Case Example for a search query. This is a simplified test case format. Check the pdf [Google File](https://drive.google.com/file/d/1lwxOs1cd3pUHtBy_c_yPO96K7gm5HNdx/view?usp=drive_link)
+  ## Bug Report Example
+    
 
 ### Certification:
 - **Zuitt Coding Bootcamp**
