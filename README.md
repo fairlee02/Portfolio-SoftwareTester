@@ -26,7 +26,7 @@ Feel free to explore my repositories to see some of the projects I've been invol
 
 ---
 # CV
-Download my CV in a [PDF format from Google Drive](#)
+Download my CV in a [PDF format from Google Drive](https://drive.google.com/file/d/1EwK2iCZ6SAoDPhMXobnDQcy9MwTLUolF/view?usp=sharing)
 
 # Skills
   ### Manual Testing
@@ -73,7 +73,7 @@ _these are the tools that I have used in my works_
 
 ---
 # Experience:
-#### Software Tester (Manual Tester) - Remote
+#### Software Tester  - Remote
 **DreamTech International Corp., Makati Philippines**
 *Aug 2023 - Present*
  
