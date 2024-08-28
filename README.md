@@ -26,7 +26,7 @@ Feel free to explore my repositories to see some of the projects I've been invol
 
 ---
 # CV
-Download my CV in a [PDF format from Google Drive](https://drive.google.com/file/d/1EwK2iCZ6SAoDPhMXobnDQcy9MwTLUolF/view?usp=sharing)
+Download my CV in a [PDF format from Google Drive](https://drive.google.com/file/d/1aIU9dwLAb9jRcmI-9nJpNRSWckqeUWwi/view?usp=sharing)
 
 # Skills
   ### Manual Testing
@@ -139,6 +139,7 @@ tracking within the development team.
   - *July 2021 to October 2021*
   - Front-End Web Development
   - Back-End Web Development
+    [Certificate](https://drive.google.com/file/d/1AEQAGUQO_AjtSRXWgjouCqRyksTVBOxz/view?usp=sharing)
 ---
 
 ## Education:
