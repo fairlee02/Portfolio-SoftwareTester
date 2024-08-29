@@ -14,6 +14,7 @@
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases-example)
+  * [Automation Example](#automation-example)
 ---
 # About me 
 :girl: life as a software tester
@@ -130,7 +131,8 @@ tracking within the development team.
   - [Luma e-commerce website](https://magento.softwaretestingboard.com/) a demo website was used to create sample test cases.
     * Test Case Example for Check-out feature following a Happy Path. Check [Google File](https://docs.google.com/spreadsheets/d/12qVf1I0GItSmPoJzad2ZJz18YWmFiCvmqV2o8R8eGyo/edit?usp=sharing)
     * Test Case Example for a search query. This is a simplified test case format. Check the pdf [Google File](https://drive.google.com/file/d/1lwxOs1cd3pUHtBy_c_yPO96K7gm5HNdx/view?usp=drive_link)
-  ## Bug Report Example
+  ## Automation Example
+   - [Playwright Demo Source Code](https://github.com/fairlee02/Playwright_Demo)
     
 
 ## Certification:
